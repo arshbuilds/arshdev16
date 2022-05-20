@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arshdev16
-- 👀 I’m interested in ... web, app and gamedevlopment
-- 🌱 I’m currently learning ... react js
+- 👀 I’m interested in ... web, app and gamedevleopment
+- 🌱 I’m currently learning ... blockchain and hacking
 - 💞️ I’m looking to collaborate on ... not really :)
 - 📫 How to reach me ... arshisha2516@gmail.com  
 
