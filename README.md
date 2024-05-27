@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [simplifymedi](simplifymedi.com)
+- 🔭 I’m currently working on <a href="simplifymedi.com" target="_blank">Simplifymedi</a>
 
 - 🌱 I’m currently learning **computer netoworking**
 
